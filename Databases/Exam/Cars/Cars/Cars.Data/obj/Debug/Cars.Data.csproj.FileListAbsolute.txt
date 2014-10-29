@@ -1,0 +1,12 @@
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\Cars.Data.dll.config
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\Cars.Data.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\Cars.Data.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\Cars.Models.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\EntityFramework.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\Cars.Models.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\EntityFramework.xml
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\obj\Debug\Cars.Data.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\obj\Debug\Cars.Data.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Data\obj\Debug\Cars.Data.pdb

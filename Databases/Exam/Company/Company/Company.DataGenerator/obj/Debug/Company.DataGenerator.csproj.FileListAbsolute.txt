@@ -1,0 +1,12 @@
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\Company.DataGenerator.exe.config
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\Company.DataGenerator.exe
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\Company.DataGenerator.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\obj\Debug\Company.DataGenerator.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\obj\Debug\Company.DataGenerator.exe
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\obj\Debug\Company.DataGenerator.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\Company.Data.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\EntityFramework.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\Company.Data.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\EntityFramework.xml
+D:\Programming\Telerik_Academy\Databases\Exam\Company\Company\Company.DataGenerator\bin\Debug\EntityFramework.SqlServer.xml

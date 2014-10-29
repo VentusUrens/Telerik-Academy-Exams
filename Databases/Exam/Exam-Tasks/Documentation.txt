@@ -1,0 +1,32 @@
+Connection string for "Company" database: 
+==========================================
+    1) <add name="CompanyEntities" connectionString="metadata=res://*/CompanyEntities.csdl|res://*/CompanyEntities.ssdl|res://*/CompanyEntities.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.\SQLEXPRESS;initial catalog=Company;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+    2) <add name="CompanyEntities" connectionString="metadata=res://*/CompanyEntities.csdl|res://*/CompanyEntities.ssdl|res://*/CompanyEntities.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=Company;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+=======================================
+Connection string for "Cars" database:
+=======================================
+     1)
+<add name="CarsDBContext" connectionString="Data Source =.; Initial Catalog=Cars;Integrated Security=true" providerName="System.Data.SqlClient"/>
+    
+     2)
+<add name="CarsDBContext" connectionString="Data Source =.\SQLEXPRESS; Initial Catalog=Cars;Integrated Security=true" providerName="System.Data.SqlClient"/>
+
+
+Relationships for "Company" database: (first-table : second-table - type of relationship)
+
+1) Employees: Reports - one to many
+2) Employees: Departments - one to many
+3) Employees: Projects - many to many (via table EmployeesProjects)
+4) Employees: Employees - one to many (manager Id)
+
+Relationships for "Cars" database: (first-table : second-table - type of relationship)
+
+1) Dealers: Cities - one to many
+2) Dealers: Cars - one to many
+3) Cars: Manufacturers - many to one
+
+Query files: (file location in solution)
+"..Exam\Company\01.Query-Take employees with specific.."
+"..Exam\Company\02.Query-Each department with the.."

@@ -1,0 +1,16 @@
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Cars.Importer.exe.config
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Cars.Importer.exe
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Cars.Importer.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Cars.Data.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Cars.Models.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\EntityFramework.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Cars.Data.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Cars.Models.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\EntityFramework.xml
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\obj\Debug\Cars.Importer.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\obj\Debug\Cars.Importer.exe
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\obj\Debug\Cars.Importer.pdb
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Telerik_Academy\Databases\Exam\Cars\Cars\Cars.Importer\bin\Debug\Newtonsoft.Json.xml
