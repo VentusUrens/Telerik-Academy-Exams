@@ -1,0 +1,42 @@
+Design pattern: Simple Factory
+	* ComputerFactory
+
+Design pattern: Strategy
+	* CommandReader with the method ReadCommandsFor(computers are passed as params here..)
+
+Design pattern: Template Method
+	* IComputer
+
+Design pattern: Abstract factory
+	* IFactory -> ComputerFactory
+
+Design pattern: Composite
+	* Unfortunatelly, I could not implement this pattern :-(
+
+Design pattern: Mediator
+	* It is done by the class CommandReader. It is called by the main method and the CommandReader is processing all the information along the chain. The Main method should not do anything more than just calling the CommandReader once.w
+
+Found bottlenecks:
+	* The first bottle-neck happenes because of the usage of a the System.IO.StreamReader.ReadLine()
+	* The second bottle-neck is in the server.Process method. There it is used string concatenation instead of string builder for the result.
+
+Found bugs:
+	* #1 fixed: In the class Cpu.cs there was a second invocation of the Main() method, which I deleted.
+	* #2 fixed: In the class Cpu.cs, the videoCard was not passed into the constructor of the CPU
+	* #3 fixed: In the class Computer.cs, there was no "%" after each printed result, so I added it.
+
+Single responsibility principle
+	* Every class in the project has only one responsibility. For example, there is a class CommandReader that only reads the commands and there is a class CommandExecutor, which independently executes each command, which is passed to it.
+
+Open/closed principle
+	* Every method in the program works with abstraction. Every needed parameter is defined by an interface.
+For example: IHardDrive, IComputer, ICpu, IFactory, IRam and ILaptopBattery
+
+Liskov substitution principle
+	* 
+
+Interface segregation principle
+	* Each and every class implements an Interface which enables flexibility in the project. Every class can be replaced with other class that implements the needed Interface.
+
+Dependency inversion principle
+	* The principle is implemented between two specific classes in the project. It is implemented between the the CommandReader and the CommandExecutor.

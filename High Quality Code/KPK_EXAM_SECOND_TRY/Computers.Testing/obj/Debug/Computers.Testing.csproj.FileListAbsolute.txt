@@ -1,0 +1,7 @@
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Computers.Testing\obj\Debug\Computers.Testing.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Computers.Testing\bin\Debug\Computers.Testing.dll
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Computers.Testing\bin\Debug\Computers.Testing.pdb
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Computers.Testing\bin\Debug\Computers.exe
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Computers.Testing\bin\Debug\Computers.pdb
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Computers.Testing\obj\Debug\Computers.Testing.dll
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Computers.Testing\obj\Debug\Computers.Testing.pdb

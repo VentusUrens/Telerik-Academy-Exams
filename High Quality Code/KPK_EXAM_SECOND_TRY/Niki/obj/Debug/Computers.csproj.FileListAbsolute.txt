@@ -1,0 +1,7 @@
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Niki\bin\Debug\Computers.exe.config
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Niki\bin\Debug\Computers.exe
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Niki\bin\Debug\Computers.pdb
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Niki\bin\Debug\System.Collections.Generic.dll
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Niki\obj\Debug\Computers.exe
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Niki\obj\Debug\Computers.pdb
+D:\Programming\Telerik_Academy\KPK-Exam\SecondTry\Niki\obj\Debug\Computers.csprojResolveAssemblyReference.cache
